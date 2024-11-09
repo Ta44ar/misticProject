@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "misticProject", "misticProject\misticProject.csproj", "{493B2174-91AA-4D91-B1E5-DD5E1D5974FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "misticProject.Client", "misticProject.Client\misticProject.Client.csproj", "{7BC895C9-4063-4EF5-920C-77448EA57576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493B2174-91AA-4D91-B1E5-DD5E1D5974FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493B2174-91AA-4D91-B1E5-DD5E1D5974FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493B2174-91AA-4D91-B1E5-DD5E1D5974FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493B2174-91AA-4D91-B1E5-DD5E1D5974FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC895C9-4063-4EF5-920C-77448EA57576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC895C9-4063-4EF5-920C-77448EA57576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC895C9-4063-4EF5-920C-77448EA57576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC895C9-4063-4EF5-920C-77448EA57576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E505945B-B083-4F34-8AA8-11EC2041C238}
+	EndGlobalSection
+EndGlobal
